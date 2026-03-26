@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+.gradle-home/
+
+# Build outputs
+build/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
