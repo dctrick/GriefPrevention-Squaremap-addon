@@ -6,7 +6,7 @@ Based on the GriefPrevention addon from [jpenilla/squaremap-addons](https://gith
 ## Requirements
 | Software | Version |
 | --- | --- |
-| Paper | 1.20 or newer |
+| Paper | 1.20+ |
 | Java | 21 |
 | GriefPrevention | 17.0.0 or newer |
 | squaremap | 1.2.2 or newer |
