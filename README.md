@@ -66,3 +66,4 @@ The jar lands in `build/libs`.
 ## Credits
 
 Original addon by BillyGalbreath, part of [squaremap-addons](https://github.com/jpenilla/squaremap-addons).
+dsfsdf
